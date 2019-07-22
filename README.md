@@ -2,8 +2,8 @@
 Analyze Titnanic survival rate regarding age, gender, on boarding class ussing ggplot2 in R
 
 #### Gender
-!["1"](https://github.com/jitammy/kagglePractice/blob/master/plot/1.png){:height="400px" width="400px"}
-Female survived disproportionately more than males down on the Titanic
+!["1"](https://github.com/jitammy/kagglePractice/blob/master/plot/1.png)<!-- .element height="50%" width="50%" -->
+<br/>Female survived disproportionately more than males down on the Titanic
 
 #### On boarding class
 
