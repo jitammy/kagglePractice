@@ -3,7 +3,7 @@ Analyze Titnanic survival rate regarding age, gender, on boarding class ussing g
 
 #### Gender
 - Female survived disproportionately more than males down on the Titanic <br/>
-<img src = "https://github.com/jitammy/kagglePractice/blob/master/plot/1.png" width="300" height="300"
+<img src = "https://github.com/jitammy/kagglePractice/blob/master/plot/1.png" width="300" height="300">
 
 #### On boarding class
 - First class passengers survival rate is much higher than the other two classes. <br/>
@@ -20,7 +20,7 @@ Analyze Titnanic survival rate regarding age, gender, on boarding class ussing g
 
 #### Histogram Analysis
 - Children and aged people disproportionately survived <br/>
-!["4"](https://github.com/jitammy/kagglePractice/blob/master/plot/4.png) !["5"](https://github.com/jitammy/kagglePractice/blob/master/plot/5.png)
+!["4"](https://github.com/jitammy/kagglePractice/blob/master/plot/4.png) |  !["5"](https://github.com/jitammy/kagglePractice/blob/master/plot/5.png)
 
 
 
