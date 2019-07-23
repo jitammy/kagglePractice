@@ -19,7 +19,7 @@ Analyze Titnanic survival rate regarding age, gender, on boarding class ussing g
 
 #### Histogram Analysis
 - Children and aged people disproportionately survived <br/>
-<img src = "https://github.com/jitammy/kagglePractice/blob/master/plot/4.png" width="300" height="300"> <img src = "https://github.com/jitammy/kagglePractice/blob/master/plot/5.png" width="350" height="350">
+<img src = "https://github.com/jitammy/kagglePractice/blob/master/plot/4.png" width="300" height="350"> <img src = "https://github.com/jitammy/kagglePractice/blob/master/plot/5.png" width="350" height="350">
 
 
 
