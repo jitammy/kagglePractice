@@ -44,5 +44,5 @@ Analyze Titnanic survival rate regarding age, gender, on boarding class ussing g
 
 
 ## Conclusion
-The hypothesis of “women and children are first” is correct
+The hypothesis of “women and children are first” is correct according to above data visualization methods.
 
